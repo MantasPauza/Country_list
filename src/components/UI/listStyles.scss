@@ -1,0 +1,15 @@
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  li {
+    padding: 10px;
+    margin-bottom: 5px;
+    background-color: #c8e6c9;
+    font-family: Arial, sans-serif;
+    strong {
+      color: #000000;
+    }
+  }
+}
